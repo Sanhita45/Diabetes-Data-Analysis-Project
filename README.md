@@ -42,9 +42,14 @@ There are 4 research questions identified based on the dataset.
 3.	Is heart disease associated with an increased risk of developing diabetes?
 4.	Is smoking also a risk factor for diabetes?
 ![image](https://github.com/user-attachments/assets/d4e683a6-c3c9-4f85-b3a3-4061ba6c9e9f)
+•	With regard to this chart, female patients have a greater likelihood of diabetes than male patients, but the gap is very small. According to this study, gender has no impact on diabetes.
 ![image](https://github.com/user-attachments/assets/1f041e8e-4ed3-4df9-a81c-ca90733761f0)
+•	This graph shows that hypertension has a minor impact on diabetes. It is low, yet it has an effect on people who have diabetes.
 ![image](https://github.com/user-attachments/assets/a1000cd0-034c-4b57-a0f0-abc723faa033)
+•	The impact of Heart Disease on Diabetics is nearly identical to that of Hypertension.
+•	Initially, an assumption was made that smoking would have some effect on diabetes, but our data reveals that it has no effect on diabetes because all types of smoking history have nearly equal effects on diabetes.
 ![image](https://github.com/user-attachments/assets/e3bb0b57-4362-42e4-89d2-0166132bc193)
+•	As shown by the heat map, HbA1c and Blood Glucose Levels have a connection with diabetes. This could assist us identify an underlying trend in our data allocation. In reality, each additional factor is connected with diabetes, but not as strongly as the previously described features.
 ![image](https://github.com/user-attachments/assets/6ec0eea0-f6cf-4728-a941-0f114c19bdd6)
 ![image](https://github.com/user-attachments/assets/1eab66cc-3be3-40e8-9594-38351a7b2976)
 ![image](https://github.com/user-attachments/assets/f4e74601-9f27-48d6-9038-e18bf1c49eac)
