@@ -45,14 +45,38 @@ There are 4 research questions identified based on the dataset.
 •	With regard to this chart, female patients have a greater likelihood of diabetes than male patients, but the gap is very small. According to this study, gender has no impact on diabetes.
 ![image](https://github.com/user-attachments/assets/1f041e8e-4ed3-4df9-a81c-ca90733761f0)
 •	This graph shows that hypertension has a minor impact on diabetes. It is low, yet it has an effect on people who have diabetes.
-![image](https://github.com/user-attachments/assets/a1000cd0-034c-4b57-a0f0-abc723faa033)
 •	The impact of Heart Disease on Diabetics is nearly identical to that of Hypertension.
 •	Initially, an assumption was made that smoking would have some effect on diabetes, but our data reveals that it has no effect on diabetes because all types of smoking history have nearly equal effects on diabetes.
-![image](https://github.com/user-attachments/assets/e3bb0b57-4362-42e4-89d2-0166132bc193)
+![image](https://github.com/user-attachments/assets/a1000cd0-034c-4b57-a0f0-abc723faa033)
 •	As shown by the heat map, HbA1c and Blood Glucose Levels have a connection with diabetes. This could assist us identify an underlying trend in our data allocation. In reality, each additional factor is connected with diabetes, but not as strongly as the previously described features.
+![image](https://github.com/user-attachments/assets/e3bb0b57-4362-42e4-89d2-0166132bc193)
+•	The above graph shows the smoking history on the basis of patients’ genders. It is shown that female current smokers are slightly higher than male current smokers. Former smokers’ values are the same in both genders. Females who never smoked ever is higher than the males.
 ![image](https://github.com/user-attachments/assets/6ec0eea0-f6cf-4728-a941-0f114c19bdd6)
+Opinions
+•	Despite the fact that we have more female patients than male patients, we can see that the number of diabetic patients is very close. We can suppose that male patients have diabetes at a higher rate than female ones.
+•	Smoking History still does not appear to ring any bells.
+•	The same is true for hypertension. According to our research, it has no effect on diabetes.
+•	The majority of our patients do not have heart disease, and just a small percentage of our patients do. According to this, it has no affection for diabetes, as evidenced in the plot.
+
 ![image](https://github.com/user-attachments/assets/1eab66cc-3be3-40e8-9594-38351a7b2976)
+Opinions
+We can now observe how diabetes is classified based on numerical data.
+•	Patients with a higher BMI are more likely to have diabetes. However, as we can see, there is a crossroads.
+•	The same is true for age. Diabetes affects older individuals more than younger ones.
+•	HbA1c Level appears to be an affecting factor for diabetes as HbA1c level increases, there are more chances to diagnose with diabetes.
+•	Blood glucose levels are similar to HbA1c levels. This can also be used to categorize as key features.
+
 ![image](https://github.com/user-attachments/assets/f4e74601-9f27-48d6-9038-e18bf1c49eac)
+•	Despite having intersections on HbA1c Level between 7-9 and Blood Glucose Level 200-300, it is clearly seen if a patients’ blood_glucose_level is between 200-300 and HbA1c_level is 7 to 9, then patient is a diabetic.
+
+ Conclusion
+•	If patient’s BMI is high, he/she has more likely to have diabetes.
+•	If a patient is older, he/she has a chance of having diabetes.
+•	If a person has hypertension or heart disease, they might not have diabetes.
+•	Diabetes has no impact on age and smoking history.
+•	If patients’ HbA1c_level and blood_glucose_level are high then they are considered as diabetics.
+
+
 
 
 
